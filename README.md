@@ -14,9 +14,9 @@ MODULES
 
 3. Text Representations Analysis
     
-3.1. TF-IDF analysis, WordCloud, topwords in TFIDF. Word Emeddings, demonstration of the embeddings, PCA and tSNE over the embeddings, LDA analysis.
+    3.1. TF-IDF analysis, WordCloud, topwords in TFIDF. Word Emeddings, demonstration of the embeddings, PCA and tSNE over the embeddings, LDA analysis.
     
-3.2. Similarity of the embeddings analysis, range of values for the cosine similarity using USE and BERT embeddings.
+    3.2. Similarity of the embeddings analysis, range of values for the cosine similarity using USE and BERT embeddings.
 
 4. Pipeline ABSA: Topic Classification using the similarity of the best embeddings found in 3.2, followed by Sentiment Classification using ML, DL and Attention-based models.
 
